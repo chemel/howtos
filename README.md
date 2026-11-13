@@ -4,6 +4,8 @@ Ce dépôt rassemble des procédures techniques rédigées avec l'aide d'une int
 
 ## Procédures
 
+- [Installer et configurer isc-dhcp-server sur Debian](2026-installer-isc-dhcp-server-debian.md) : installation, configuration d'un serveur DHCP, réservations MAC, vérifications et dépannage.
+
 - [Chiffrer son dossier personnel sur Debian avec fscrypt](2026-chiffrer-home-debian-fscrypt.md) : options de chiffrement, prérequis, mise en place et vérifications.
 
 ## À lire avant d'appliquer une procédure
